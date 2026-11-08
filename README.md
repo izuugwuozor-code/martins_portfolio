@@ -46,3 +46,4 @@ Before publishing, replace `YOUR_EMAIL@example.com` and the sample GitHub links 
 - The About page includes the same portrait from `images/izuchukwu.png`. Replace that file to use a different photo.
 - Skills bars show HTML 95%, CSS 90%, JavaScript 85%, and Responsive Design 80% in gold.
 - The technology strip scrolls continuously and slowly; users with reduced-motion preferences are respected.
+# waw_project_clone
